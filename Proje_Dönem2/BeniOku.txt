@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1-7yrqUeHN-DblHtkOf5sOJSV0P27bKtD?usp=sharing
+-Yukarıdaki linkten CNN modelini main.py dosyasının bulunduğu klasöre indirin 
+-main.py dosyasını cmd üzerinden "py main.py" yazarak çalıştırın
